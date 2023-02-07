@@ -1,4 +1,4 @@
-# chatgpt_demo
+# Chatgpt
 
 Chatgpt Flutter for mobile.
 
